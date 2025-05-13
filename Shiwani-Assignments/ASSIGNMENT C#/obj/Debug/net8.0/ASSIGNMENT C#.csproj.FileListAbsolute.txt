@@ -1,0 +1,15 @@
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\bin\Debug\net8.0\ASSIGNMENT C#.exe
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\bin\Debug\net8.0\ASSIGNMENT C#.deps.json
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\bin\Debug\net8.0\ASSIGNMENT C#.runtimeconfig.json
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\bin\Debug\net8.0\ASSIGNMENT C#.dll
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\bin\Debug\net8.0\ASSIGNMENT C#.pdb
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.AssemblyInfoInputs.cache
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.AssemblyInfo.cs
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.csproj.CoreCompileInputs.cache
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.sourcelink.json
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.dll
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\refint\ASSIGNMENT C#.dll
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.pdb
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ASSIGNMENT C#.genruntimeconfig.cache
+D:\3rd class_work@march2025(trainer-sahadan sir)\camp 4 - (git _github)\Git_Github class workshop\C# Assignments\Shiwani-Assignments\ASSIGNMENT C#\obj\Debug\net8.0\ref\ASSIGNMENT C#.dll
