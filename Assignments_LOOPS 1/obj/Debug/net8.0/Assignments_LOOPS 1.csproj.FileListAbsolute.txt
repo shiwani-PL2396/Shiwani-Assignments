@@ -1,0 +1,14 @@
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.AssemblyInfoInputs.cache
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.AssemblyInfo.cs
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.csproj.CoreCompileInputs.cache
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\bin\Debug\net8.0\Assignments_LOOPS 1.exe
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\bin\Debug\net8.0\Assignments_LOOPS 1.deps.json
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\bin\Debug\net8.0\Assignments_LOOPS 1.runtimeconfig.json
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\bin\Debug\net8.0\Assignments_LOOPS 1.dll
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\bin\Debug\net8.0\Assignments_LOOPS 1.pdb
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.dll
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\refint\Assignments_LOOPS 1.dll
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.pdb
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\Assignments_LOOPS 1.genruntimeconfig.cache
+D:\Camp4\Assignment_LOOPS\Assignments_LOOPS\Assignments_LOOPS 1\obj\Debug\net8.0\ref\Assignments_LOOPS 1.dll
