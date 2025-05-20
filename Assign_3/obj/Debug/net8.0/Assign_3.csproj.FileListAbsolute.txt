@@ -1,0 +1,15 @@
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\bin\Debug\net8.0\Assign_3.exe
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\bin\Debug\net8.0\Assign_3.deps.json
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\bin\Debug\net8.0\Assign_3.runtimeconfig.json
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\bin\Debug\net8.0\Assign_3.dll
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\bin\Debug\net8.0\Assign_3.pdb
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.AssemblyInfoInputs.cache
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.AssemblyInfo.cs
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.csproj.CoreCompileInputs.cache
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.sourcelink.json
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.dll
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\refint\Assign_3.dll
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.pdb
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\Assign_3.genruntimeconfig.cache
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\Assign_3\obj\Debug\net8.0\ref\Assign_3.dll

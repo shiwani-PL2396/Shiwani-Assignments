@@ -1,0 +1,15 @@
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\bin\Debug\net8.0\string_Assign(sat)1.exe
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\bin\Debug\net8.0\string_Assign(sat)1.deps.json
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\bin\Debug\net8.0\string_Assign(sat)1.runtimeconfig.json
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\bin\Debug\net8.0\string_Assign(sat)1.dll
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\bin\Debug\net8.0\string_Assign(sat)1.pdb
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.AssemblyInfoInputs.cache
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.AssemblyInfo.cs
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.csproj.CoreCompileInputs.cache
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.sourcelink.json
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.dll
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\refint\string_Assign(sat)1.dll
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.pdb
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\string_Assign(sat)1.genruntimeconfig.cache
+D:\Camp4 VS_CW\C# Assignments\Assign(sat)\string_Assign(sat)1\obj\Debug\net8.0\ref\string_Assign(sat)1.dll
