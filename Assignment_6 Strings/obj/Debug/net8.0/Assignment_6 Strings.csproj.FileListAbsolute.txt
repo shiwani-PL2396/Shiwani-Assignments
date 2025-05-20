@@ -1,0 +1,5 @@
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_6 Strings\obj\Debug\net8.0\Assignment_6 Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_6 Strings\obj\Debug\net8.0\Assignment_6 Strings.AssemblyInfoInputs.cache
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_6 Strings\obj\Debug\net8.0\Assignment_6 Strings.AssemblyInfo.cs
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_6 Strings\obj\Debug\net8.0\Assignment_6 Strings.csproj.CoreCompileInputs.cache
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_6 Strings\obj\Debug\net8.0\Assignment_6 Strings.sourcelink.json

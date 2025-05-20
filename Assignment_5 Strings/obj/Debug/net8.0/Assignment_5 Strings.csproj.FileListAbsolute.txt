@@ -1,0 +1,15 @@
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\bin\Debug\net8.0\Assignment_5 Strings.exe
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\bin\Debug\net8.0\Assignment_5 Strings.deps.json
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\bin\Debug\net8.0\Assignment_5 Strings.runtimeconfig.json
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\bin\Debug\net8.0\Assignment_5 Strings.dll
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\bin\Debug\net8.0\Assignment_5 Strings.pdb
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.AssemblyInfoInputs.cache
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.AssemblyInfo.cs
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.csproj.CoreCompileInputs.cache
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.sourcelink.json
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.dll
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\refint\Assignment_5 Strings.dll
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.pdb
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\Assignment_5 Strings.genruntimeconfig.cache
+D:\Camp4 VS_CW\C# Assignments\strings\Assignment_5 Strings\obj\Debug\net8.0\ref\Assignment_5 Strings.dll
