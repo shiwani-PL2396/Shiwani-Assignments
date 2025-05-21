@@ -1,0 +1,9 @@
+D:\Camp4 VS_CW\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4 VS_CW\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.AssemblyInfoInputs.cache
+D:\Camp4 VS_CW\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.AssemblyInfo.cs
+D:\Camp4 VS_CW\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.csproj.CoreCompileInputs.cache
+D:\Camp4 VS_CW\C# Assignments\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4 VS_CW\C# Assignments\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.AssemblyInfoInputs.cache
+D:\Camp4 VS_CW\C# Assignments\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.AssemblyInfo.cs
+D:\Camp4 VS_CW\C# Assignments\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.csproj.CoreCompileInputs.cache
+D:\Camp4 VS_CW\C# Assignments\A_Encapsulation\Assignment_1 Encapsulation\obj\Debug\net8.0\Assignment_1 Encapsulation.sourcelink.json
